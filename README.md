@@ -22,21 +22,21 @@
     1. 上傳每週版次報表，系統自動解析內容
     2. 自動比對版次更新，快速找出新增或修改的圖幅
     3. 將比對結果更新至資料庫，保留歷史紀錄
-[▶ 更新圖幅週報表操作影片](https://drive.google.com/file/d/1rX-mHoEDMjwyIsdgC5qSYJbaydG-UP7O/view?usp=sharing)  
+[▶ 更新圖幅週報表操作影片](https://drive.google.com/file/d/1zet4Gl6PrOnZIKPSTw7Kk6l5J9uc4WMa/view?usp=sharing)  
 ![更新圖幅週報表](./img/update_weekly_report.png)
 
 #### 查詢歷年圖幅銷售及更新數據   
     功能說明:    
     1. 使用者可選擇起始年份、結束年份及統計時長
     2. 即時顯示所選期間的累計發行量、總授權數、總收入，以及圖幅的新版本、再版與更新數據  
-[▶查詢歷年圖幅銷售及更新數據操作影片](https://drive.google.com/file/d/1f4WigjwEc1ivK5c-ogkbqp_vXDFHBIQm/view?usp=sharing)  
+[▶查詢歷年圖幅銷售及更新數據操作影片](https://drive.google.com/file/d/1zA6bj3wclzhVhc4UP0h3kA9_YLSAnoCq/view?usp=sharing)  
 ![查詢歷年圖幅銷售及更新數據](./img/show_sales_form.png)
 
 #### 圖幅銷售數量查詢  
     功能說明:    
     1. 點選任意圖幅，即時查看該圖幅的詳細資訊與銷售量
     2. 以互動式地圖呈現不同區域的圖幅銷售熱度，以掌握圖幅需求之區域  
-[▶ 圖幅銷售數量查詢操作影片](https://drive.google.com/file/d/1ZVWc8JU8pbHbVfsPQOE5UGQVHpW9gvIo/view?usp=sharing)  
+[▶ 圖幅銷售數量查詢操作影片](https://drive.google.com/file/d/17INABbLUBScKOxhKkrbac6MN4ibg6Gze/view?usp=sharing)  
 ![圖幅銷售數量查詢](./img/display_cellframe_salesquantity.png)
 
 
